@@ -1,4 +1,4 @@
-# Website for QIndia - Quantum Beginners Initiative
+# Archived/Shelved QIndia - Quantum Beginners Initiative
 
 ![logo](https://github.com/AbdullahKazi500/QIndia.github.io/assets/75779966/79a45128-74b9-4d49-9206-cccb342e5bfb)
 
@@ -6,7 +6,7 @@
 
 ## What is QIndia - Quantum Beginners Initiative ?
 
-Blog and tutorial series with Qiskit focused on helping Quantum beginners find their footing. There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content
+Blog and tutorial series with Qiskit focused on helping Quantum beginners find their footing. There are many resources out there for people to learn about quantum computing. However we would like to create a place where absolute beginners can start from, like a “start here” section that then takes them step-by-step through the process of understanding the minimum before exploring the world of quantum computing for themselves. The content will be a combination of original creations by the team and links to specific sections of already existing content [QIndia Webpage](https://qindia.netlify.app/post/)
 
 ## What can you find here?
 
@@ -25,13 +25,15 @@ Blog and tutorial series with Qiskit focused on helping Quantum beginners find t
 - [Home](https://github.com/AbdullahKazi500/QIndiaQIB/tree/main)
 - beta
   - Documentation
-    - [Section 1](beta/documentation/section-1)
-    - [Section 2](beta/documentation/section-2)
-    - [Section 3](beta/documentation/section-3)
+  - [Theory Section 1 & 2](https://github.com/AbdullahKazi500/QIndiaQIB/blob/main/QIndia%20(1).pdf)
+    - [Section 1](beta/Documentation/section-1)
+    - [Section 2](beta/Documentation/section-2)
+    - [Section 3](beta/Documentation/section-3)
   - Tutorials
     - [Section 2](beta/Tutorials/section-2)
     - [Section 3](beta/Tutorials/section-3)
-
+  - Challenge exercise
+    - [Challenge exercise](https://github.com/AbdullahKazi500/QIndiaQIB/blob/main/Challenge_Exercises_.ipynb)
 ---
 
   ## *beta* directory
@@ -65,8 +67,6 @@ Additionally, we have a separate folder called **Tutorials** within the **beta**
 ## Todo
 - [ ] Adding a Work in Progress Banner header on top of the website 
 - [ ] Create a curated database of Quantum Computing internhips in India
-- [ ] Separate internships into seasonal (summer/winter) and throughout-the-year types
-- [ ] Add ability to filter database according to institution
 - [x] Improve the appearance of tables in the database
 - [x] Automate the generation of pdf from content lists
 - [ ] Automate looking up webpages to see if new program announcements are available 
@@ -82,13 +82,13 @@ Resolving existing issues
 For detailed instructions, please refer the [contribution](https://github.com/AbdullahKazi500/QIndia.github.io/blob/master/Contributing.md) guidelines
 
 ## Attribution
-[Minimal Mistake Theme](https://github.com/mmistakes)
+[WowChemy by Hugo ](https://github.com/wowchemy)
 
 ## Content Author (Theory) / Maintainer
 [Abdullah Kazi](https://github.com/AbdullahKazi500) ,[Mansi Tarani](https://github.com/MansiTarani?tab=repositories), Nasir
 
 
-## Content Author (Algorithms)/ Maintainer
+## Content Author (code)/ Maintainer
 [Akash Reddy](https://github.com/Akash6300) , [Kiran Kaur](https://github.com/KyranKaur) 
 
 ## Content Editor / Proof Reading / Technical Review / Advisor 
@@ -103,20 +103,27 @@ For detailed instructions, please refer the [contribution](https://github.com/Ab
 ## Infographics/ Flowcharts 
 [Kiran Kaur](https://github.com/KyranKaur)
 
-## Coding exercises / Challenge Tutorials
+## Coding exercises 
 [Akash Reddy](https://github.com/Akash6300),Abdullah Kazi , [Kiran Kaur](https://github.com/KyranKaur)
+
+##  Website 
+Denisa Vitkova
+
+##  Challenge Tutorials
+Abdullah
 
 ## Quantum Beginners Intiative Team
 - [ ] Section 1&2:
-- [ ] Text Content/Theory – Abdullah, Mansi
+- [ ] Website - Denisa Vitkova
+- [ ] Text Content/Theory – Abdullah, Mansi, Nasir Ali
 - [ ] Coding Tutorials with theory(Jupyter Notebooks) – Akash, Kiran
 - [ ] Flowcharts and Infographics – Kiran
-- [ ] Graphics and Images – Kabir, Muskan 
+- [ ] Graphics and Images – Muskan 
 - [ ] Videos – Abdullah, Muskan
 - [ ] Section 3:
 - [ ] Text Content/Theory – Akash, Kiran
 - [ ] Coding Tutorials(Jupyter Notebooks) – Akash, Kiran
 - [ ] Flowcharts and Infographics – Kiran
-- [ ] Graphics and Images – Kabir, Muskan
+- [ ] Graphics and Images – Muskan
 - [ ] Videos – Abdullah, Muskan
 
